@@ -79,7 +79,7 @@ SO THAT my website can handle large amounts of unstructured data
 
 The following screanshots show examples of the application's API routes being tested in Insomnia.
 
-The following screanshots shows the GET, POST, PUT, and DELETE routes for users being tested in Insomnia:
+The following screanshots show the GET, POST, PUT, and DELETE routes for users being tested in Insomnia:
 
 ![Demo of GET routes to return all users being tested in Insomnia.](./assets/images/findAll-user.jpg)
 ![Demo of GET routes to return users by Id being tested in Insomnia.](./assets/images/find-user-byID.jpg)
@@ -87,23 +87,23 @@ The following screanshots shows the GET, POST, PUT, and DELETE routes for users 
 ![Demo of PUT routes to return update user tested in Insomnia.](./assets/images/update-user.jpg)
 ![Demo of DEL routes to return delete user tested in Insomnia.](./assets/images/delete-user.jpg)
 
-The following screanshots shows GET and POST routes to return all thoughts being tested in Insomnia:
+The following screanshots show GET and POST routes to return all thoughts being tested in Insomnia:
 
 ![Demo of GET routes to return all users and all thoughts being tested in Insomnia.](./assets/images/getAll-thought.jpg)
 ![Demo of GET routes to return users and thoughts by Id being tested in Insomnia.](./assets/images/find-thought-byID.jpg)
 ![Demo of POST routes to return create thoughts tested in Insomnia.](./assets/images/create-thought.jpg)
 
-The following screanshots shows the POST, PUT, and DELETE routes for reaction being tested in Insomnia:
+The following screanshots show the POST, PUT, and DELETE routes for reaction being tested in Insomnia:
 
 ![Demo of POST routes to return create reaction tested in Insomnia.](./assets/images/create-reaction.jpg)
 ![Demo of DEL routes to return delete reaction tested in Insomnia.](./assets/images/remove-reaction.jpg)
 
-The following screanshots shows the POST and DELETE routes for friend being tested in Insomnia:
+The following screanshots show the POST and DELETE routes for friend being tested in Insomnia:
 
 ![Demo of POST routes to return create friend tested in Insomnia.](./assets/images/add-friend.jpg)
 ![Demo of DEL routes to return delete friend tested in Insomnia.](./assets/images/remove-friend.jpg)
 
-The following screanshots shows the database and collections in MongoDB:
+The following screanshots show the database and collections in MongoDB:
 
 ![Demo of user collection in MongoDB.](./assets/images/userDB.jpg)
 
